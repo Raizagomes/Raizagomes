@@ -1,6 +1,6 @@
 ### olá, sou a Raiza Gomes 👋
 - 🔭 Atualmente sou estudante na Labenu
-- 👩‍💻 Front-End e passando pela segunda etapa pratica de Back-End... ...
+- 👩‍💻 Front-End e passando para segunda etapa pratica de Back-End... ...
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
